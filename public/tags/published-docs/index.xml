@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Published Docs on Craigccfl</title>
+    <link>https://www.craigccfl.com/tags/published-docs/</link>
+    <description>Recent content in Published Docs on Craigccfl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jan 2019 18:25:40 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.craigccfl.com/tags/published-docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Published White Papers</title>
+      <link>https://www.craigccfl.com/post/papers/</link>
+      <pubDate>Sun, 20 Jan 2019 18:25:40 -0400</pubDate>
+      
+      <guid>https://www.craigccfl.com/post/papers/</guid>
+      <description>Glycolytic control of vacuolar-type ATPase activity: A mechanism to regulate influenza viral infection
+Hinissan P. Kohio, Amy L. Adamson (2013)
+Description: The increase of viral infection via high glucose levels could be reversed by , linking glucose metabolism and influenza viral infection.
+University North Carolina The Internal, External and Extended Microbiomes of Hominins
+Robert R Dunn, Katherine R Amato, Elizabeth A Archie, Mimi Arandjelovic, Alyssa N Crittenden and Lauren M Nichols (2020)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fruits &amp; Veggies on Craigccfl</title>
+    <link>https://www.craigccfl.com/tags/fruits-veggies/</link>
+    <description>Recent content in Fruits &amp; Veggies on Craigccfl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.craigccfl.com/tags/fruits-veggies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Really, more fruits and vegetables?</title>
+      <link>https://www.craigccfl.com/post/more-fruits-and-vegetables/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.craigccfl.com/post/more-fruits-and-vegetables/</guid>
+      <description>We’re consistently told, eating more fruits and vegetables reduces our risk of cardiovascular diseases. We’re also told these plant foods contain necessary antioxidants, vitamins and phytochemicals that ultimately improve our health. This guidance is solely based on observational studies, not randomized control studies. We’ll here is a control study published in the European Journal of Nutrition,
+“Effect of increasing fruit and vegetable intake by dietary intervention on nutritional bio-markers and attitudes to dietary change: a randomized trial,” basically stating that increasing consumption of fruits and vegetables provides no signification health benefits or reduction in markers of disease.</description>
+    </item>
+    
+  </channel>
+</rss>

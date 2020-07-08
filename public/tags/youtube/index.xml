@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YouTube on Craigccfl</title>
+    <link>https://www.craigccfl.com/tags/youtube/</link>
+    <description>Recent content in YouTube on Craigccfl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.craigccfl.com/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Health and Nutrition YouTube Video Page</title>
+      <link>https://www.craigccfl.com/post/youtube-vids/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.craigccfl.com/post/youtube-vids/</guid>
+      <description>Click on video to watch     Sustainable Ranching vs Mono Cropping
+     Dr Paul Saladino Rob Wolf &amp;amp; Diana Rogers
+     Dr Chris Knobbe
+     Dr Paul Saladino
+     Dr Harcombe
+     Diet Doctor
+     Dr Berry
+     Dr. Mason</description>
+    </item>
+    
+  </channel>
+</rss>
