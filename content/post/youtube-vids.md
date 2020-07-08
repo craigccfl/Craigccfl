@@ -22,6 +22,10 @@ mathjax: true # Enable MathJax for specific page
 
 ## Click on video to watch ##
 
+>{{< youtube 6_Np2Zvps38 >}}
+***Jon Venus & Paul Saladino MD***
+
+
 >{{< youtube IqobkpyKk9k >}}
 ***Sustainable Ranching vs Mono Cropping***
 
