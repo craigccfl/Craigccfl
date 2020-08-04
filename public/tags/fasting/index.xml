@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Fasting on Craigccfl</title>
+    <link>https://craigccfl.com/tags/fasting/</link>
+    <description>Recent content in Fasting on Craigccfl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 01 Jun 2020 18:08:23 -0400</lastBuildDate>
+    
+        <atom:link href="https://craigccfl.com/tags/fasting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Intermittent Fasting</title>
+        <link>https://craigccfl.com/posts/intermittent-fasting/</link>
+        <pubDate>Mon, 01 Jun 2020 18:08:23 -0400</pubDate>
+        
+        <atom:modified>Mon, 01 Jun 2020 18:08:23 -0400</atom:modified>
+        <guid>https://craigccfl.com/posts/intermittent-fasting/</guid>
+        <description>Never skip a meal - - Right? People that know me, especially while traveling for work, mention that I eat like a snake. When I do eat, it&amp;rsquo;s a lot and when I&amp;rsquo;m not eating, it can be for a few days. This is what&amp;rsquo;s nice about being fat adapted, if there&amp;rsquo;s nothing healthy to eat, which there rarely is when traveling, it&amp;rsquo;s not a problem to skip a few meals: It&amp;rsquo;s called not being a slave to food.</description>
+        
+        <dc:creator>CraigW</dc:creator>
+        <media:content url="https://craigccfl.com/images/posts/fasting.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Fasting</category>
+            
+          
+            
+          
+        
+        
+          
+            
+              <category>Fasting</category>
+            
+          
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

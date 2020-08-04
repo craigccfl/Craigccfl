@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Youtubes on Craigccfl</title>
+    <link>https://craigccfl.com/youtube/</link>
+    <description>Recent content in Youtubes on Craigccfl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://craigccfl.com/youtube/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Health and Nutrition YouTube Video Page</title>
+        <link>https://craigccfl.com/youtube/youtube-vids/</link>
+        <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 21 Mar 2018 00:00:00 +0000</atom:modified>
+        <guid>https://craigccfl.com/youtube/youtube-vids/</guid>
+        <description>Click on video to watch     Bill Maher Perspective on COVID &amp;ldquo;Finally Someone Said It&amp;rdquo;
+     Gary Taubes &amp;amp; Dr. Jason Fung Discuss Time Restricted Eating
+     Sustainable Ranching vs Mono Cropping
+     Dr Paul Saladino Rob Wolf &amp;amp; Diana Rogers
+     Dr Chris Knobbe
+     Dr Paul Saladino</description>
+        
+        <dc:creator>CraigW</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>YouTube</category>
+            
+          
+            
+              <category>All Videos</category>
+            
+          
+        
+        
+          
+            
+              <category>Videos</category>
+            
+          
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

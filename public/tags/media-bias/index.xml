@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Media Bias on Craigccfl</title>
+    <link>https://craigccfl.com/tags/media-bias/</link>
+    <description>Recent content in Media Bias on Craigccfl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://craigccfl.com/tags/media-bias/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Media misdirection</title>
+        <link>https://craigccfl.com/posts/media/</link>
+        <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 21 Aug 2019 00:00:00 +0000</atom:modified>
+        <guid>https://craigccfl.com/posts/media/</guid>
+        <description>Misleading CBC attack job Misleading CBC attack job portrayed as news to keep us healthy. This psychologist explains in detail that the advice given by CBC is misleading hyperbole. Research fats and find out what happens when polyunsaturated and unsaturated fats oxidize. We should not be eating the stuff.
+https://www.healthline.com/nutrition/5-studies-on-saturated-fat
+    </description>
+        
+        <dc:creator>CraigW</dc:creator>
+        <media:content url="https://craigccfl.com/images/posts/CBC-hack.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Media Bias</category>
+            
+          
+            
+              <category>Oxidized Oils</category>
+            
+          
+            
+              <category>Videos</category>
+            
+          
+        
+        
+          
+            
+              <category>Nutritional Confusion</category>
+            
+          
+            
+              <category>Videos</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

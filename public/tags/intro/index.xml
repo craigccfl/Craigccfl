@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Intro on Craigccfl</title>
+    <link>https://craigccfl.com/tags/intro/</link>
+    <description>Recent content in Intro on Craigccfl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://craigccfl.com/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Introduction to (N=1)</title>
+        <link>https://craigccfl.com/about/about/</link>
+        <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 25 Jan 2019 00:00:00 +0000</atom:modified>
+        <guid>https://craigccfl.com/about/about/</guid>
+        <description>My personal nutritional paradigm shifted completely counter intuitive to almost every nutritional mantra taught the last 60-years due to the people, books, videos, podcasts and published studies found on this site. Often, when I try to explain my current eating preferences, I get the whack-a-doodle look along with the typical audacious comments regarding cholesterol, vitamins, scurvy, fiber, constipation, etc., hence, the purpose of this website.
+I’ve been questioning conventional nutritional wisdom for several years because it is not working for people.</description>
+        
+        <dc:creator>CraigW</dc:creator>
+        <media:content url="https://craigccfl.comimages/posts/N1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Intro</category>
+            
+          
+            
+          
+        
+        
+          
+            
+          
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
