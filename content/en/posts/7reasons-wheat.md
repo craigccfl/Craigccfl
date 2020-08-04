@@ -25,6 +25,7 @@ image: /images/posts/ken-berry.png
 ---
 
 {{< featuredImage width=400 height=300 >}}
+<br>
 
 Eating whole grain breads to improve your health and increase fiber? Maybe it is not such a great idea. If it is processed food, it probably has wheat or a wheat by-product in the ingredients. Wheat is subsidized by our government, it's cheap and very profitable for food companies. There's many problems stemming from wheat products, detailed in the book *Grain Brain* (see books category). Dr Ken Berry has hundreds of YouTube videos posted online designed to help people improve their health. Dr. Berry is highly respected in the keto and carnivore communities. In this video *7 Reasons to NEVER Eat Wheat Again*, Dr Berry explains the science for his position, "Wheat is not good for humans." References are in the show notes, don't just take his word for it, read the journal articles. BTW, don't get duped into believing fermented (sour dough) breads are any better. All grains whether in cereals or breads create issues in our digestive systems. Grains are not part of our 2M-year ancestral diet.
 

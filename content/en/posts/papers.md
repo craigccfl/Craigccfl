@@ -28,8 +28,7 @@ image: /images/posts/paper.png
 __Glycolytic control of vacuolar-type ATPase activity: A mechanism to regulate influenza viral infection__\
 Hinissan P. Kohio, Amy L. Adamson (2013)\
 **Description:** The increase of viral infection via high glucose levels could be reversed by
-, linking glucose metabolism and influenza
-viral infection.\
+, linking glucose metabolism and influenza viral infection.\
 [University North Carolina](https://craigccfl.com/media/Virology_Glycolytic_Control-main.pdf)
 
 __The Internal, External and Extended Microbiomes of Hominins__\
