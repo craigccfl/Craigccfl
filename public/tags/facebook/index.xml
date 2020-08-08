@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Facebook on Craigccfl</title>
+    <link>https://craigccfl.com/tags/facebook/</link>
+    <description>Recent content in Facebook on Craigccfl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 23 Mar 2018 05:39:44 -0400</lastBuildDate>
+    
+        <atom:link href="https://craigccfl.com/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Facebook Groups</title>
+        <link>https://craigccfl.com/resources/facebook/</link>
+        <pubDate>Fri, 23 Mar 2018 05:39:44 -0400</pubDate>
+        
+        <atom:modified>Fri, 23 Mar 2018 05:39:44 -0400</atom:modified>
+        <guid>https://craigccfl.com/resources/facebook/</guid>
+        <description>  Facebook Groups   Carnivore Nation
+  The Fasting Method Network
+  World Carivore Tribe
+  Carnivore Corner / Meat Health
+  </description>
+        
+        <dc:creator>CraigW</dc:creator>
+        <media:content url="https://craigccfl.comimages/posts/facebook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Facebook</category>
+            
+          
+            
+          
+        
+        
+          
+            
+          
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

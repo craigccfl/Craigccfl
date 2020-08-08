@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Resources on Craigccfl</title>
+    <link>https://craigccfl.com/resources/</link>
+    <description>Recent content in Resources on Craigccfl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 20 Jan 2019 18:25:40 -0400</lastBuildDate>
+    
+        <atom:link href="https://craigccfl.com/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Published White Papers</title>
+        <link>https://craigccfl.com/resources/papers/</link>
+        <pubDate>Sun, 20 Jan 2019 18:25:40 -0400</pubDate>
+        
+        <atom:modified>Sun, 20 Jan 2019 18:25:40 -0400</atom:modified>
+        <guid>https://craigccfl.com/resources/papers/</guid>
+        <description>Interesting published papers Glycolytic control of vacuolar-type ATPase activity: A mechanism to regulate influenza viral infection
+Hinissan P. Kohio, Amy L. Adamson (2013)
+Description: The increase of viral infection via high glucose levels could be reversed by
+, linking glucose metabolism and influenza viral infection.
+University North Carolina
+The Internal, External and Extended Microbiomes of Hominins
+Robert R Dunn, Katherine R Amato, Elizabeth A Archie, Mimi Arandjelovic, Alyssa N Crittenden and Lauren M Nichols (2020)</description>
+        
+        <dc:creator>CraigW</dc:creator>
+        <media:content url="https://craigccfl.com/images/posts/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Published Papers</category>
+            
+          
+            
+          
+        
+        
+          
+            
+          
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Facebook Groups</title>
+        <link>https://craigccfl.com/resources/facebook/</link>
+        <pubDate>Fri, 23 Mar 2018 05:39:44 -0400</pubDate>
+        
+        <atom:modified>Fri, 23 Mar 2018 05:39:44 -0400</atom:modified>
+        <guid>https://craigccfl.com/resources/facebook/</guid>
+        <description>  Facebook Groups   Carnivore Nation
+  The Fasting Method Network
+  World Carivore Tribe
+  Carnivore Corner / Meat Health
+  </description>
+        
+        <dc:creator>CraigW</dc:creator>
+        <media:content url="https://craigccfl.comimages/posts/facebook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Facebook</category>
+            
+          
+            
+          
+        
+        
+          
+            
+          
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Twitter Resources</title>
+        <link>https://craigccfl.com/resources/twitter-follows/</link>
+        <pubDate>Fri, 23 Mar 2018 05:39:44 -0400</pubDate>
+        
+        <atom:modified>Fri, 23 Mar 2018 05:39:44 -0400</atom:modified>
+        <guid>https://craigccfl.com/resources/twitter-follows/</guid>
+        <description>Twitter Resources    Name Twitter Address     Georgia Ede MD @GeorgiaEdeMD       Aseem Malhotra MD @DrAseemMalhotra       Gary Taubes @garytaubes       Gary Fettke MD @FructoseNo       Dr Eric Westman @drericwestman       Diet Doctor @DietDoctor       Andreas Eenfeldt MD @DrEenfeldt       Vinnie Tortorich @VinnieTortorich       Nina Telcholz @bigfatsurprise       Tim Noakes MD @ProfTimNoakes       Ted Naiman MD @tednaiman       Paul Saladino MD @CarnivoreMD       L Amber O’Hearn @KetoCarnivore       Shawn Baker MD @SbakerMD       Dave Asprey @bulletproofexec       Ken D Berry MD @KenDBerryMD       Jason Fung MD @drjasonfung       Benjamin Bikman PhD @BenBikmanPhD       Ivor Cummins @FatEmperor       Andreas Enfeldt MD @Dr.</description>
+        
+        <dc:creator>CraigW</dc:creator>
+        <media:content url="https://craigccfl.com/images/posts/twitter.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Twitter</category>
+            
+          
+            
+          
+        
+        
+          
+            
+          
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Books</title>
+        <link>https://craigccfl.com/resources/books/</link>
+        <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 21 Aug 2017 00:00:00 +0000</atom:modified>
+        <guid>https://craigccfl.com/resources/books/</guid>
+        <description>* Life changing information for improving health.    Name Title (s)     Dr. Jason Fung: The Obesity Code *    The Diabetes Code *    The Complete Guide to Intermittent Fasting *    Life in the Fasting Lane       Dr. Ken Barry Lies My Doctor Told Me *       Dr.</description>
+        
+        <dc:creator>CraigW</dc:creator>
+        <media:content url="https://craigccfl.com/images/posts/Books.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Books</category>
+            
+          
+            
+          
+        
+        
+          
+            
+          
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

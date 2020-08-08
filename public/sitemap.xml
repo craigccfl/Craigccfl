@@ -263,18 +263,28 @@
   </url>
   
   <url>
-    <loc>https://craigccfl.com/tags/published-docs/</loc>
+    <loc>https://craigccfl.com/tags/published-papers/</loc>
     <lastmod>2019-01-20T18:25:40-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://craigccfl.com/posts/papers/</loc>
+    <loc>https://craigccfl.com/resources/papers/</loc>
     <lastmod>2019-01-20T18:25:40-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://craigccfl.com/categories/resources/</loc>
+    <loc>https://craigccfl.com/resources/</loc>
     <lastmod>2019-01-20T18:25:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://craigccfl.com/tags/facebook/</loc>
+    <lastmod>2018-03-23T05:39:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://craigccfl.com/resources/facebook/</loc>
+    <lastmod>2018-03-23T05:39:44-04:00</lastmod>
   </url>
   
   <url>
@@ -283,7 +293,7 @@
   </url>
   
   <url>
-    <loc>https://craigccfl.com/posts/twitter-follows/</loc>
+    <loc>https://craigccfl.com/resources/twitter-follows/</loc>
     <lastmod>2018-03-23T05:39:44-04:00</lastmod>
   </url>
   
@@ -313,7 +323,7 @@
   </url>
   
   <url>
-    <loc>https://craigccfl.com/posts/books/</loc>
+    <loc>https://craigccfl.com/resources/books/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
   </url>
   

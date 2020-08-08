@@ -5,15 +5,15 @@
   weight = 1
 
 [[main]]
-  identifier = ""
-  name = ""
-  url = ""
+  identifier = "resources"
+  name = "Resources"
+  url = "resources"
   weight = 2
 
 [[main]]
-  identifier = ""
-  name = ""
-  url = ""
+  identifier = "youtube"
+  name = "Videos"
+  url = "youtube"
   weight = 3
 
 [[main]]
