@@ -11,6 +11,8 @@
     <description>Recent content in Youtubes on Craigccfl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>contact@craigccfl.com (CraigW)</managingEditor>
+    <webMaster>contact@craigccfl.com (CraigW)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
     
@@ -24,7 +26,7 @@
         <title>Health and Nutrition YouTube Video Page</title>
         <link>https://craigccfl.com/youtube/youtube-vids/</link>
         <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-        
+        <author>contact@craigccfl.com (CraigW)</author>
         <atom:modified>Wed, 21 Mar 2018 00:00:00 +0000</atom:modified>
         <guid>https://craigccfl.com/youtube/youtube-vids/</guid>
         <description>Click on video to watch     Bill Maher Perspective on COVID &amp;ldquo;Finally Someone Said It&amp;rdquo;
@@ -44,8 +46,6 @@
               <category>YouTube</category>
             
           
-            
-              <category>All Videos</category>
             
           
         

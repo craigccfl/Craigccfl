@@ -11,6 +11,8 @@
     <description>Recent content in Published Papers on Craigccfl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>contact@craigccfl.com (CraigW)</managingEditor>
+    <webMaster>contact@craigccfl.com (CraigW)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 20 Jan 2019 18:25:40 -0400</lastBuildDate>
     
@@ -24,7 +26,7 @@
         <title>Published White Papers</title>
         <link>https://craigccfl.com/resources/papers/</link>
         <pubDate>Sun, 20 Jan 2019 18:25:40 -0400</pubDate>
-        
+        <author>contact@craigccfl.com (CraigW)</author>
         <atom:modified>Sun, 20 Jan 2019 18:25:40 -0400</atom:modified>
         <guid>https://craigccfl.com/resources/papers/</guid>
         <description>Interesting published papers Glycolytic control of vacuolar-type ATPase activity: A mechanism to regulate influenza viral infection

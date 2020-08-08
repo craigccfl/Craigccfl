@@ -11,6 +11,8 @@
     <description>Recent content in Resources on Craigccfl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>contact@craigccfl.com (CraigW)</managingEditor>
+    <webMaster>contact@craigccfl.com (CraigW)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 20 Jan 2019 18:25:40 -0400</lastBuildDate>
     
@@ -24,7 +26,7 @@
         <title>Published White Papers</title>
         <link>https://craigccfl.com/resources/papers/</link>
         <pubDate>Sun, 20 Jan 2019 18:25:40 -0400</pubDate>
-        
+        <author>contact@craigccfl.com (CraigW)</author>
         <atom:modified>Sun, 20 Jan 2019 18:25:40 -0400</atom:modified>
         <guid>https://craigccfl.com/resources/papers/</guid>
         <description>Interesting published papers Glycolytic control of vacuolar-type ATPase activity: A mechanism to regulate influenza viral infection
@@ -62,7 +64,7 @@ Robert R Dunn, Katherine R Amato, Elizabeth A Archie, Mimi Arandjelovic, Alyssa 
         <title>Facebook Groups</title>
         <link>https://craigccfl.com/resources/facebook/</link>
         <pubDate>Fri, 23 Mar 2018 05:39:44 -0400</pubDate>
-        
+        <author>contact@craigccfl.com (CraigW)</author>
         <atom:modified>Fri, 23 Mar 2018 05:39:44 -0400</atom:modified>
         <guid>https://craigccfl.com/resources/facebook/</guid>
         <description>  Facebook Groups   Carnivore Nation
@@ -98,7 +100,7 @@ Robert R Dunn, Katherine R Amato, Elizabeth A Archie, Mimi Arandjelovic, Alyssa 
         <title>Twitter Resources</title>
         <link>https://craigccfl.com/resources/twitter-follows/</link>
         <pubDate>Fri, 23 Mar 2018 05:39:44 -0400</pubDate>
-        
+        <author>contact@craigccfl.com (CraigW)</author>
         <atom:modified>Fri, 23 Mar 2018 05:39:44 -0400</atom:modified>
         <guid>https://craigccfl.com/resources/twitter-follows/</guid>
         <description>Twitter Resources    Name Twitter Address     Georgia Ede MD @GeorgiaEdeMD       Aseem Malhotra MD @DrAseemMalhotra       Gary Taubes @garytaubes       Gary Fettke MD @FructoseNo       Dr Eric Westman @drericwestman       Diet Doctor @DietDoctor       Andreas Eenfeldt MD @DrEenfeldt       Vinnie Tortorich @VinnieTortorich       Nina Telcholz @bigfatsurprise       Tim Noakes MD @ProfTimNoakes       Ted Naiman MD @tednaiman       Paul Saladino MD @CarnivoreMD       L Amber O’Hearn @KetoCarnivore       Shawn Baker MD @SbakerMD       Dave Asprey @bulletproofexec       Ken D Berry MD @KenDBerryMD       Jason Fung MD @drjasonfung       Benjamin Bikman PhD @BenBikmanPhD       Ivor Cummins @FatEmperor       Andreas Enfeldt MD @Dr.</description>
@@ -130,7 +132,7 @@ Robert R Dunn, Katherine R Amato, Elizabeth A Archie, Mimi Arandjelovic, Alyssa 
         <title>Books</title>
         <link>https://craigccfl.com/resources/books/</link>
         <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-        
+        <author>contact@craigccfl.com (CraigW)</author>
         <atom:modified>Mon, 21 Aug 2017 00:00:00 +0000</atom:modified>
         <guid>https://craigccfl.com/resources/books/</guid>
         <description>* Life changing information for improving health.    Name Title (s)     Dr. Jason Fung: The Obesity Code *    The Diabetes Code *    The Complete Guide to Intermittent Fasting *    Life in the Fasting Lane       Dr. Ken Barry Lies My Doctor Told Me *       Dr.</description>

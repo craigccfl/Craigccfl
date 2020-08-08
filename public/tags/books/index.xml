@@ -11,6 +11,8 @@
     <description>Recent content in Books on Craigccfl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>contact@craigccfl.com (CraigW)</managingEditor>
+    <webMaster>contact@craigccfl.com (CraigW)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
     
@@ -24,7 +26,7 @@
         <title>Books</title>
         <link>https://craigccfl.com/resources/books/</link>
         <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-        
+        <author>contact@craigccfl.com (CraigW)</author>
         <atom:modified>Mon, 21 Aug 2017 00:00:00 +0000</atom:modified>
         <guid>https://craigccfl.com/resources/books/</guid>
         <description>* Life changing information for improving health.    Name Title (s)     Dr. Jason Fung: The Obesity Code *    The Diabetes Code *    The Complete Guide to Intermittent Fasting *    Life in the Fasting Lane       Dr. Ken Barry Lies My Doctor Told Me *       Dr.</description>

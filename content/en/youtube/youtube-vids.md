@@ -8,7 +8,7 @@ categories:
   - ""
 tags:
   - "YouTube"
-  - "All Videos"
+  - ""
 menu: side # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params

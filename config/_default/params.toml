@@ -43,7 +43,7 @@ pubPaginate = 10
 
 # whoami
 myname = "CraigW"
-email = ""
+email = "contact@craigccfl.com"
 whoami = "Advocate for Ancestral Human Nutrition"
 bioImageUrl = "images/logo_transparent-300x300.png"
 useGravatar = false
@@ -143,11 +143,11 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = ""
+  email = "contact@craigccfl.com"
   phone = ""
-  facebook = ""
+  facebook = "https://www.facebook.com/profile.php?id=100010435862627"
   twitter = "http://twitter.com/qccraig/"
-  github = ""
+  github = "https://github.com/craigccfl"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
@@ -162,7 +162,7 @@ commento = false
   weibo = ""
   douban = ""
   csdn = ""
-  gitlab = ""
+  gitlab = "https://gitlab.com/craigccfl"
   mastodon = ""
   jianshu = ""
   zhihu = ""
