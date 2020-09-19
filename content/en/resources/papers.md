@@ -25,11 +25,10 @@ image: /images/posts/paper.png
 
 #### Interesting published papers
 
-__Glycolytic control of vacuolar-type ATPase activity: A mechanism to regulate influenza viral infection__\
-Hinissan P. Kohio, Amy L. Adamson (2013)\
-**Description:** The increase of viral infection via high glucose levels could be reversed by
-, linking glucose metabolism and influenza viral infection.\
-[University North Carolina](https://craigccfl.com/media/Virology_Glycolytic_Control-main.pdf)
+__A review of fatty acid profiles and antioxidant content in grass-fed and grain-fed beef__\
+Cynthia A Daley, Amber Abbot, Patrick S Doyle, Glenn A Nader, and Stephanie Larson (2010)\
+**Description:** Differences fatty acid composition, grass fed/finished beef vs commercial soy/corn fed beef.\
+[Nutrition Journal](https://craigccfl.com/media/Fatty_acid_profiles_grass-fed_grain-fed_beef.pdf)
 
 __The Internal, External and Extended Microbiomes of Hominins__\
 Robert R Dunn, Katherine R Amato, Elizabeth A Archie, Mimi Arandjelovic, Alyssa N Crittenden and Lauren M Nichols (2020)\
