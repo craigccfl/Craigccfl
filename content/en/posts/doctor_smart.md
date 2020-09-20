@@ -2,7 +2,12 @@
 title: "Educating the health professionals."
 date: 2020-09-20T14:54:08-04:00
 description: "Great LCHF / Keto YouTube video from Paul Mason MD"
-draft: true
+draft: false
+
+categories:
+- Common Beliefs Revisited
+- Nutritional Confusion
+- Videos
 
 tags:
 - "Ketogenic Diet"
@@ -10,17 +15,10 @@ tags:
 - "Dementia"
 - "Bone Density"
 - "Fructose"
-
-categories:
-- Common Beliefs Revisited
-- Nutritional Confusion
-- Videos
-
 menu: side
+toc: true
 
 lead: "What's wrong with our health care professionals?"
-
-toc: true
 
 image: /images/posts/keto-logo.png
 ---
