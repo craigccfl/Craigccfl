@@ -1,6 +1,6 @@
 ---
 # Common-Defined params
-title: "Is salting our food bad for us?"
+title: "Is salting our food bad?"
 date: 2020-03-29T10:59:06-04:00
 description: "YouTube video on the importance of sufficient salt intake"
 categories:
