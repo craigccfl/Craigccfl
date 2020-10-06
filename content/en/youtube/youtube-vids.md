@@ -22,6 +22,9 @@ mathjax: true # Enable MathJax for specific page
 
 ## Click on video to watch ##
 
+>{{< youtube k_XDMdltRlY >}}
+***Chris Knobbe MD & Paul Saladino MD "Are excess polyunsaturated fats to blame for the epidemic of chronic diseases?"***
+
 >{{< youtube vDaQOy7ML38 >}}
 ***Bill Maher Perspective on COVID "Finally Someone Said It"***
 
