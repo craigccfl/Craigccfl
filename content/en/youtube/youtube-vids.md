@@ -25,8 +25,8 @@ mathjax: true # Enable MathJax for specific page
 >{{< youtube k_XDMdltRlY >}}
 ***Chris Knobbe MD & Paul Saladino MD "Are excess polyunsaturated fats to blame for the epidemic of chronic diseases?"***
 
->{{< youtube vDaQOy7ML38 >}}
-***Bill Maher Perspective on COVID "Finally Someone Said It"***
+>{{< youtube cuUcFkEdyfI >}}
+***Paul Saladino MD and Nadir Ali MD "What does a mainstream cardiologist think about my cholesterol? (LDL 535)"***
 
 >{{< youtube QAim7IASsEg >}}
 ***Gary Taubes & Dr. Jason Fung Discuss Time Restricted Eating***
